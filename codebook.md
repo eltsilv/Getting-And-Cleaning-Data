@@ -1,5 +1,5 @@
-CodeBook for the tidy dataset project
-Data source
+##CodeBook for the tidy dataset project
+##Data source
 
 Source data for this project is Samsung's "Human Activity Recognition Using Smartphones Data Set" which is avaiable at:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
